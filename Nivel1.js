@@ -93,6 +93,18 @@
 
 
 
+// 7 . 
+
+let nomes = ["Lucas", "Mariana", "Thiago", "Beatriz"]
+function fnEstaNaLista(lista, nomes){
+    
+}
+
+fnEstaNaLista(lista, nomes)
+
+
+
+
 // 8 . 
 
 // let corredores = ["Arroz", "Feijão", "Açúcar", "Café", "Sal"]
@@ -132,9 +144,9 @@
 
 // 10 . 
 
-function fnCriarBoletim(nota1, nota2, nota3){ // aq eu crio a função
-    let notas =  [nota1, nota2, nota3] // aq eu declaro quais funções serão chamadas 
-    console.log(notas) // aq eu exibo elas no terminal
-}
+// function fnCriarBoletim(nota1, nota2, nota3){ // aq eu crio a função
+//     let notas =  [nota1, nota2, nota3] // aq eu declaro quais funções serão chamadas 
+//     console.log(notas) // aq eu exibo elas no terminal
+// }
 
-fnCriarBoletim(8.0, 7.5, 9.0) // aq eu defino quais são as informações q serão usadas na função, para rodar
+// fnCriarBoletim(8.0, 7.5, 9.0) // aq eu defino quais são as informações q serão usadas na função, para rodar
